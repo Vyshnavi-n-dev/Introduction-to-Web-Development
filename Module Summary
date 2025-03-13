@@ -1,0 +1,23 @@
+In this module, you learned that:
+
+JavaScript is a scripting language that enables developers to add dynamic content to web pages.
+
+ JavaScript variables are declared using the 'let' or 'const' keywords and take their type from the value assigned.
+
+Program execution is controlled by statements like If…Then…Else, Switch, For loops, and While loops.
+
+JavaScript uses blocks of code, called functions, that can be called from anywhere in the script.
+
+New methods and properties can be added to an object by modifying the prototype for that object.
+
+Prototypes allow you to define properties and methods for all instances of a specific object.
+
+Client-side scripts are programs that accompany HTML documents and are used by developers to incorporate more interactive elements.
+
+The script tag can incorporate a script within an HTML document or call a script from an external file.
+
+The Document Object Model (DOM) is the programming interface between HTML or XHTML and JavaScript.
+
+Developers can access HTML DOM elements from JavaScript scripts using the correct DOM notation.
+
+APIs are often used to access HTML DOM elements in web pages.
